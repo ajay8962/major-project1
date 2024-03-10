@@ -1,6 +1,6 @@
 {
   "engines":{
-    "node": ">=18.18.0 <19.0.0"
+    "node": "20.11.1"
   },
   "name": "major-project1",
   "version": "1.0.0",
